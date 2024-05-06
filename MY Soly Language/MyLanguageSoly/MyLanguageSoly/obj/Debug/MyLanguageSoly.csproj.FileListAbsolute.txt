@@ -1,0 +1,26 @@
+F:\projects\PLD\MY Soly Language\MyLanguageSoly\MyLanguageSoly\bin\Debug\MyLanguageSoly.exe.config
+F:\projects\PLD\MY Soly Language\MyLanguageSoly\MyLanguageSoly\bin\Debug\MyLanguageSoly.exe
+F:\projects\PLD\MY Soly Language\MyLanguageSoly\MyLanguageSoly\bin\Debug\MyLanguageSoly.pdb
+F:\projects\PLD\MY Soly Language\MyLanguageSoly\MyLanguageSoly\bin\Debug\CalithaLib.dll
+F:\projects\PLD\MY Soly Language\MyLanguageSoly\MyLanguageSoly\bin\Debug\GoldParserEngine.dll
+F:\projects\PLD\MY Soly Language\MyLanguageSoly\MyLanguageSoly\obj\Debug\MyLanguageSoly.csproj.AssemblyReference.cache
+F:\projects\PLD\MY Soly Language\MyLanguageSoly\MyLanguageSoly\obj\Debug\MyLanguageSoly.Form1.resources
+F:\projects\PLD\MY Soly Language\MyLanguageSoly\MyLanguageSoly\obj\Debug\MyLanguageSoly.Properties.Resources.resources
+F:\projects\PLD\MY Soly Language\MyLanguageSoly\MyLanguageSoly\obj\Debug\MyLanguageSoly.csproj.GenerateResource.cache
+F:\projects\PLD\MY Soly Language\MyLanguageSoly\MyLanguageSoly\obj\Debug\MyLanguageSoly.csproj.CoreCompileInputs.cache
+F:\projects\PLD\MY Soly Language\MyLanguageSoly\MyLanguageSoly\obj\Debug\MyLanguageSoly.csproj.CopyComplete
+F:\projects\PLD\MY Soly Language\MyLanguageSoly\MyLanguageSoly\obj\Debug\MyLanguageSoly.exe
+F:\projects\PLD\MY Soly Language\MyLanguageSoly\MyLanguageSoly\obj\Debug\MyLanguageSoly.pdb
+F:\projects\PLD M\PLD\MY Soly Language\MyLanguageSoly\MyLanguageSoly\obj\Debug\MyLanguageSoly.csproj.AssemblyReference.cache
+F:\projects\PLD M\PLD\MY Soly Language\MyLanguageSoly\MyLanguageSoly\obj\Debug\MyLanguageSoly.Form1.resources
+F:\projects\PLD M\PLD\MY Soly Language\MyLanguageSoly\MyLanguageSoly\obj\Debug\MyLanguageSoly.Properties.Resources.resources
+F:\projects\PLD M\PLD\MY Soly Language\MyLanguageSoly\MyLanguageSoly\obj\Debug\MyLanguageSoly.csproj.GenerateResource.cache
+F:\projects\PLD M\PLD\MY Soly Language\MyLanguageSoly\MyLanguageSoly\obj\Debug\MyLanguageSoly.csproj.CoreCompileInputs.cache
+F:\projects\PLD M\PLD\MY Soly Language\MyLanguageSoly\MyLanguageSoly\obj\Debug\MyLanguageSoly.exe
+F:\projects\PLD M\PLD\MY Soly Language\MyLanguageSoly\MyLanguageSoly\obj\Debug\MyLanguageSoly.pdb
+F:\projects\PLD M\PLD\MY Soly Language\MyLanguageSoly\MyLanguageSoly\bin\Debug\MyLanguageSoly.exe.config
+F:\projects\PLD M\PLD\MY Soly Language\MyLanguageSoly\MyLanguageSoly\bin\Debug\MyLanguageSoly.exe
+F:\projects\PLD M\PLD\MY Soly Language\MyLanguageSoly\MyLanguageSoly\bin\Debug\MyLanguageSoly.pdb
+F:\projects\PLD M\PLD\MY Soly Language\MyLanguageSoly\MyLanguageSoly\bin\Debug\CalithaLib.dll
+F:\projects\PLD M\PLD\MY Soly Language\MyLanguageSoly\MyLanguageSoly\bin\Debug\GoldParserEngine.dll
+F:\projects\PLD M\PLD\MY Soly Language\MyLanguageSoly\MyLanguageSoly\obj\Debug\MyLanguageSoly.csproj.CopyComplete

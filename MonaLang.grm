@@ -1,0 +1,78 @@
+
+
+"Start Symbol" = <Program>
+
+! -------------------------------------------------
+! Character Sets
+
+! -------------------------------------------------
+! Terminals
+Id   = [$]{Letter}{AlphaNumeric}*
+Digit = ('+'|'-')?{digit}+  ('.'{digit}+)? ((e|('+'|'-')?{digit}+) '^' ('+'|'-')?{digit}+ (('.'){digit}+)? )?
+
+! ----------------Rules-------------------------- 
+
+! Here soly start
+<Program> ::= 'Mona' '{' <statm_list> '}' 'Mona'
+
+<statm_list> ::= <assign>
+              | <if statment>
+              | <loop>
+              | <method>
+              |<callingmethod>
+              
+<assign>    ::= <id>'='<Add Exp>'$'
+             
+<id>::=Id
+
+
+<Add Exp>     ::= <Add Exp> '+' <Mult Exp>
+               |  <Add Exp> '-' <Mult Exp>
+               |  <Mult Exp> 
+
+<Mult Exp>    ::= <Mult Exp> '*' <power Exp> 
+               |  <Mult Exp> '/' <power Exp> 
+               |  <power Exp> 
+
+<power Exp>  ::=  <Value>'**'<Add Exp> 
+               |  <Value> 
+
+
+
+<Value>       ::=  '(' <Add Exp> ')'
+               | <id>
+               | <digit>
+               
+<digit> ::= Digit
+      
+!____________ Condition ___________
+<if statment> ::=MonaIf '{' <condition> '}'  '['<statm_list>']' or  '[' <statm_list> ']'
+
+<condition> ::= <Add Exp><op><Add Exp>
+<op>   ::= '<'|'>'|'<='|'>='|'!='        
+
+!__________________Loop__________________
+
+<loop> ::= alot '(' <type><assign> mona <condition> mona <steps> ')' '{' <statm_list> '}'       
+        
+<type> ::= double | string
+        
+<steps> ::= '++'<id>
+         |<id>'++'
+         |'--'<id>
+         |<id>'--'
+         |<assign>
+         
+!_______________________Method________________________
+
+<method>::=MonaFun <type><id>'(' <parmater> ')' '{' <statm_list> '}'
+         
+<parmater>::= <id> ',' <parmater>
+          | <id>
+          
+!____________________Call Method_________________________
+<callingmethod> ::=  'MonmonCall'<id>'(' <parmater> ')'
+                 
+
+
+
